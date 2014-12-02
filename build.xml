@@ -4,6 +4,7 @@
             <include name="**/*"/>
         </fileset>
     </path>
+hello world
     <target name="compile">
         <delete dir="classes"/>
         <mkdir dir="classes"/>
